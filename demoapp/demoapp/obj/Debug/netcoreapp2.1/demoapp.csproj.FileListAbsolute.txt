@@ -1,0 +1,14 @@
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/bin/Debug/netcoreapp2.1/demoapp.deps.json
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/bin/Debug/netcoreapp2.1/demoapp.runtimeconfig.json
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/bin/Debug/netcoreapp2.1/demoapp.runtimeconfig.dev.json
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/bin/Debug/netcoreapp2.1/demoapp.dll
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/bin/Debug/netcoreapp2.1/demoapp.pdb
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/obj/Debug/netcoreapp2.1/demoapp.csprojResolveAssemblyReference.cache
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/obj/Debug/netcoreapp2.1/demoapp.csproj.CoreCompileInputs.cache
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/obj/Debug/netcoreapp2.1/demoapp.RazorAssemblyInfo.cache
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/obj/Debug/netcoreapp2.1/demoapp.RazorAssemblyInfo.cs
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/obj/Debug/netcoreapp2.1/demoapp.AssemblyInfoInputs.cache
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/obj/Debug/netcoreapp2.1/demoapp.AssemblyInfo.cs
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/obj/Debug/netcoreapp2.1/demoapp.RazorTargetAssemblyInfo.cache
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/obj/Debug/netcoreapp2.1/demoapp.dll
+/Users/owalls/Projects/GitsAndGlamour/Demo-App-ASP.NET.git/demoapp/demoapp/obj/Debug/netcoreapp2.1/demoapp.pdb
