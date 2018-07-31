@@ -1,5 +1,10 @@
-FROM microsoft/dotnet:2.1-sdk AS build
+FROM microsoft/aspnetcore-build:2.0 AS build-env
 WORKDIR /app
+
+# copy google cloud quickstart.sh
+FROM alpine
+COPY quickstart.sh /
+CMD ["/quickstart.sh"]
 
 # copy csproj and restore as distinct layers
 COPY *.sln .
@@ -11,6 +16,8 @@ COPY demoapp/. ./demoapp/
 WORKDIR /app/demoapp
 RUN dotnet publish -c Release -o out
 
+# Install any necessary dependencies
+RUN pip install -r requirements.txt
 
 FROM microsoft/dotnet:2.1-aspnetcore-runtime AS runtime
 WORKDIR /app
