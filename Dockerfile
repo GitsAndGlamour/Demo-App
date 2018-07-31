@@ -1,11 +1,6 @@
 FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /app
 
-# copy google cloud quickstart.sh
-FROM alpine
-COPY quickstart.sh /
-CMD ["/quickstart.sh"]
-
 # copy csproj and restore as distinct layers
 COPY *.sln .
 COPY demoapp/*.csproj ./demoapp/
