@@ -1,4 +1,4 @@
-FROM microsoft/aspnetcore-build:2.0 AS build-env
+FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /app
 
 # copy google cloud quickstart.sh
